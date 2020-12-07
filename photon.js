@@ -1,3 +1,4 @@
+/*AJAX*/
 function request(url, callback) {
     var r = new XMLHttpRequest();
     r.open('GET', url, true);
@@ -39,6 +40,7 @@ function post(url, data, callback) {
     r = null;
 }
 
+/*EFFECTS*/
 function fadeIn(el) {
     var opacity = 0;
 
@@ -91,6 +93,7 @@ function show(el) {
     el.style.display = '';
 }
 
+/*ELEMENTS*/
 function addClass(el, className) {
     if (el.classList) {
         el.classList.add(className);
