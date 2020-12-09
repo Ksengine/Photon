@@ -116,8 +116,8 @@ Photon fixes following features
 - [ ] New Object Property Methods(TODO)
 
 
-**Star Photon -** [![GitHub Repo stars](https://img.shields.io/github/stars/Ksengine/Photon?label=Star&style=social)](https://github.com/Ksengine/Photon)
+**Star Photon -** [![GitHub Repo stars](https://img.shields.io/github/stars/Ksengine/Photon?label=Star&style=for-the-badge)](https://github.com/Ksengine/Photon)
 
-**Contribute -** [![GitHub Repo forks](https://img.shields.io/github/forks/Ksengine/Photon?label=Fork&style=social)](https://github.com/Ksengine/Photon/fork)
+**Contribute -** [![GitHub Repo forks](https://img.shields.io/github/forks/Ksengine/Photon?label=Fork&style=for-the-badge)](https://github.com/Ksengine/Photon/fork)
 
 <a href="https://icons8.com>icons by Icons8</a>
