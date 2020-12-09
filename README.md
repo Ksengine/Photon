@@ -1,4 +1,4 @@
-# :star: Photon
+# :star2: Photon
 small and lightweight jquery alternaive
 
 | <img src="https://img.icons8.com/cotton/128/000000/box--v4.png"/> | <img bottom="5" src="https://img.icons8.com/ios/150/000000/javascript-logo-1.png"/> | <img src="https://img.icons8.com/ios/100/000000/globe--v1.png"/> |
@@ -8,6 +8,7 @@ small and lightweight jquery alternaive
 
 ## What is Photon?
 **Photon** is an alternative for jQuery. Unlike jQuery, **Photon** injects some polyfills to built-in javascript objects. Websites can use latest javascript APIs with **Photon**. They can work on any modern browser(from Internet Explorer 7). **Photon** will handle it from background.
+**If you want to support older Browsers like Internet Explorer 8, Photon is perfect.**
 
 ## Download Photon
 Compressed and uncompressed copies of **Photon** files are available. The uncompressed file is best used during development or debugging; the compressed file saves bandwidth and improves performance in production. You can also download a sourcemap file for use when debugging with a compressed file. The map file is not required for users to run jQuery, it just improves the developer's debugger experience. As of **Photon** 1.11.0/2.1.0 the //# sourceMappingURL comment is not included in the compressed file.
